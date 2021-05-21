@@ -9,7 +9,7 @@ void main() {
         appBar: AppBar(
           backgroundColor: Colors.orange[400],
           title: Text(
-            'I am an Indian',
+            'I am Indian',
             style: TextStyle(color: Colors.blue[800]),
           ),
         ),
